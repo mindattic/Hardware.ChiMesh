@@ -73,3 +73,8 @@ Dependency-ordered toward the headline goal (CM-US-C2, proven multi-hop):
 | CM-T23 | 2026-10-21 | docs | closed | Update USER_STORIES.md | — |
 | CM-T24 | 2026-10-22 | docs | closed | Update USER_STORIES.md | — |
 | CM-T25 | 2026-10-24 | docs | closed | Update USER_STORIES.md | — |
+| CM-T26 | 2026-11-02 | docs | open | Adopt MindAttic.Agency docs-site pipeline, publish README to GitHub Pages (HOUSE-LAW-14) | — |
+| CM-T27 | 2026-11-02 | fix | closed | Bughunt sweep, two passes: find and fix real bugs across tracked source (user request 2026-11-02) | — |
+| CM-T28 | 2026-11-02 | fix | closed | Command pointer in .agent/commands said a literal $source instead of its legacy path (install.ps1 escaping bug fixed in MAT-T84); point it at the real source, or the global command when the project copy is gone | — |
+| CM-T29 | 2026-11-02 | fix | closed | Fix the open items the 2026-11-02 bughunt left for decision (AS_923 country codes, pull-latest fast-forward, unconfirmed provision exit code, channel-name cap) | — |
+| CM-T30 | 2026-11-10 | chore | closed | Crash recovery: commit the command-catalog sync (.agent/commands/*.md) and regenerated docs/USER_STORIES.md left uncommitted by the session crash | — |
